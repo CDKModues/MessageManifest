@@ -91,4 +91,14 @@ ReleaseNote for CDK V2.14.0
 		<content>CDK V2.20.0已经发布，本次对代码编辑功能的稳定性、Flash Download下载效率等各项常用功能做了提升，欢迎点击链接查看具体变更</content>
 		<url display="V2.20.0版本特性">https://gitee.com/cdkmodules/cdk-new-features/tree/master/V2.20.0#cdk-v2200%E7%89%88%E6%9C%AC%E7%89%B9%E6%80%A7%E4%BB%8B%E7%BB%8D</url>
 	</Msg>
+        <Msg token="5">
+		<title>CDK新版本发布</title>
+		<start_time>2023-08-14</start_time>
+		<end_time>2024-01-01</end_time>
+		<valid_cdk_version>2.14.0,99.99.99</valid_cdk_version> 
+		<force>no</force>
+		<tip>欢迎访问CDK V2.22.0版本特性介绍页</tip>
+		<content>CDK V2.20.0已经发布，本次发布集成了玄铁LLVM工具链，欢迎玄铁900系列芯片的开发者试用，详情点击下方链接</content>
+		<url display="V2.22.0版本特性">https://cdkmodues.github.io/CDK/V2.22.0/</url>
+	</Msg>
 </Messages>
