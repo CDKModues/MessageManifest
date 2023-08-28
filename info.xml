@@ -101,4 +101,14 @@ ReleaseNote for CDK V2.14.0
 		<content>CDK V2.20.0已经发布，本次发布集成了玄铁LLVM工具链，欢迎玄铁900系列芯片的开发者试用，详情点击下方链接</content>
 		<url display="V2.22.0版本特性">https://cdkmodues.github.io/CDK/V2.22.0/</url>
 	</Msg>
+    <Msg token="6">
+		<title>玄铁LLVM工具链发布</title>
+		<start_time>2023-08-28</start_time>
+		<end_time>2024-01-01</end_time>
+		<valid_cdk_version>2.14.0,99.99.99</valid_cdk_version> 
+		<force>no</force>
+		<tip>高性能高代码密度的玄铁LLVM工具链发布</tip>
+		<content>平头哥玄铁LLVM工具链以插件的形式发布到CDK中了，该工具链针对玄铁900处理器的性能和代码密度做了优化，详情点击下方链接，获取详细信息和CDK中的使用方法</content>
+		<url display="玄铁LLVM工具链详情">https://cdkmodues.github.io/CDK/LLVM/</url>
+	</Msg>
 </Messages>
